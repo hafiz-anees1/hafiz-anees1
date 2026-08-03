@@ -88,6 +88,89 @@ From debugging at midnight to making things work  everything here is built with 
 </p>
 
 ---
+## 🚀 Featured Projects  
+
+### 🧠 LifeSync — AI-Powered Smart Task Manager  
+**React Native · FastAPI · Whisper · Gemini AI · SQLite**
+
+A next-gen voice-first productivity system designed to turn natural speech into structured tasks in real-time.
+
+- 🎤 Voice-to-task pipeline with wake-word detection (English + Roman Urdu)
+- ⚡ AI-powered task extraction with contextual understanding
+- 📱 Clean mobile-first UI with offline capabilities
+- 🔁 Real-world async processing with background task handling  
+
+🔗 View Code  
+
+---
+
+### 🧠 AI Task Manager — Full-Stack Productivity App  
+**MERN Stack**
+
+A complete task management system focused on real-world usage and performance.
+
+- 🔐 Secure authentication & authorization system  
+- 📌 Full CRUD operations with optimized state handling  
+- ⚙️ Scalable backend architecture  
+- 🧩 Built with real user workflows in mind  
+
+🔗 View Code  
+
+---
+
+### 💼 Job Portal — Modern Hiring Platform  
+**React · Vite**
+
+A fast and responsive job marketplace for both recruiters and job seekers.
+
+- 🔎 Job search & filtering system  
+- 📄 Job posting & application flows  
+- ⚡ Optimized performance using Vite  
+- 📱 Fully responsive UI  
+
+🔗 View Code  
+
+---
+
+### 🛒 E-Commerce Store — Shopping Platform  
+**React · JavaScript**
+
+A functional e-commerce application simulating real online shopping experiences.
+
+- 🛍️ Product listing & category filtering  
+- 🛒 Cart system with dynamic updates  
+- 💳 Basic checkout flow  
+- 🎯 Clean UI focused on usability  
+
+🔗 View Code  
+
+---
+
+### 🌐 Social Media Platform — Interactive App  
+**React**
+
+A dynamic social platform focused on user interaction and content sharing.
+
+- 📝 Post creation & interaction system  
+- ❤️ Like & engagement features  
+- 🔄 Real-time UI updates  
+- 🎨 Component-based architecture  
+
+🔗 View Code  
+
+---
+
+### 📱 CareNest — Flutter Mobile Application  
+**Flutter · Dart**
+
+A cross-platform mobile app with focus on UI consistency and scalability.
+
+- 📲 Smooth cross-platform performance  
+- 🎨 Clean and structured UI design  
+- ⚙️ Modular code architecture  
+- 🚀 Built for scalability  
+
+🔗 View Code  
 
 ## 📊 GitHub Analytics
 
