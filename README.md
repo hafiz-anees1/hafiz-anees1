@@ -17,6 +17,7 @@
 ## 🌙 About Me
 
 
+```js
 const anees = {
   role:       "Full-Stack Developer",
   location:   "Gujranwala, Pakistan",
@@ -33,6 +34,7 @@ Real projects, real bugs, real problem-solving.
 
 From debugging at midnight to making things work —  
 everything here is built with consistency and learning 🚀
+```
 
 
 
