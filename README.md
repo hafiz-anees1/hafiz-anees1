@@ -172,6 +172,51 @@ A cross-platform mobile app with focus on UI consistency and scalability.
 
 🔗 View Code  
 
+## 🎓 Education  
+
+<table>
+  <tr>
+    <th>Degree</th>
+    <th>Institution</th>
+    <th>Timeline</th>
+  </tr>
+  <tr>
+    <td>🎓 BS Software Engineering</td>
+    <td>University of Central Punjab (UCP), Lahore</td>
+    <td>2022 — 2026</td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Open To  
+
+<p>
+  <img src="https://img.shields.io/badge/Remote Roles-6C63FF?style=for-the-badge&logo=remote&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Freelance Projects-00C897?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open Source-F59E0B?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech Discussions-3B82F6?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+</p>
+
+---
+
+💬 **Things I enjoy discussing:**  
+React & Next.js architecture · Scalable backend systems · REST API design · FastAPI & Python · AI integrations (LLMs) · Building full-stack apps from scratch  
+
+---
+
+> ⚡ *If you're hiring a full-stack engineer and want proof before interviews — explore my repositories. Everything here is built, tested, and battle-debugged.*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+</p>
+
+<p align="center">
+  <i>Last updated: 2026</i>
+</p>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
