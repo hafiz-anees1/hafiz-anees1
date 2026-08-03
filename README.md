@@ -31,7 +31,7 @@ const anees = {
 
 I don’t just watch tutorials — I build.  Real projects, real bugs, real problem-solving.  
 
-From debugging at midnight to making things work  everything here is built with consistency and learning 🚀
+From debugging at midnight to making things work  everything here is built with consistency and learning 
 ```
 
 
