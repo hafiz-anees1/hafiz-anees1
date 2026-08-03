@@ -210,7 +210,7 @@ React & Next.js architecture · Scalable backend systems · REST API design · F
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=hafiz-anees1&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
 
 <p align="center">
