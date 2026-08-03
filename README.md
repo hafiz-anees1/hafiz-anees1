@@ -255,10 +255,10 @@ React & Next.js architecture · Scalable backend systems · REST API design · F
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/anees-ahmad-b13113253">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hafizanees20022@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
