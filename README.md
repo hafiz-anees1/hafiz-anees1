@@ -227,27 +227,10 @@ React & Next.js architecture · Scalable backend systems · REST API design · F
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafiz-anees1&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=hafiz-anees1&theme=tokyonight" />
-</p>
-
----
-
 ## 🧠 Activity Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiz-anees1&theme=tokyo-night" />
-</p>
-
----
-
-## 🏆 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hafiz-anees1&theme=onestar&no-frame=true" />
 </p>
 
 ---
