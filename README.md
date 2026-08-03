@@ -16,13 +16,25 @@
 
 ## 🌙 About Me
 
-* 🎓 Software Engineering Graduate
-* 💻 Full Stack Developer (MERN)
-* 🚀 Passionate about building scalable web apps
-* 📍 Gujranwala, Pakistan
-* 🎯 Goal: Professional Software Engineer
 
----
+const anees = {
+  role:       "Full-Stack Developer",
+  location:   "Gujranwala, Pakistan",
+  education:  "BS Software Engineering",
+  stack:      ["React", "Node.js", "Express.js", "JavaScript", "MongoDB"],
+  databases:  ["MongoDB"],
+  tools:      ["Git", "GitHub", "Postman", "VS Code"],
+  built:      ["AI Task Manager", "Chatbot (MongoDB Atlas)", "MERN Projects"],
+  openTo:     "Remote & Hybrid full-stack roles",
+};
+
+I don’t just watch tutorials — I build.  
+Real projects, real bugs, real problem-solving.  
+
+From debugging at midnight to making things work —  
+everything here is built with consistency and learning 🚀
+
+
 
 ## ⚡ Tech Stack
 
