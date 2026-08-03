@@ -33,7 +33,52 @@ I don’t just watch tutorials — I build.  Real projects, real bugs, real prob
 
 From debugging at midnight to making things work  everything here is built with consistency and learning 
 ```
+## 🚀 What I've Built  
 
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+    <th>Status</th>
+  </tr>
+
+  <tr>
+    <td>🧠 <b>LifeSync</b> — AI smart task manager (voice → tasks)</td>
+    <td>React Native · FastAPI · Whisper · Gemini AI · SQLite</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>🧠 <b>AI Task Manager</b> — Full-stack productivity system</td>
+    <td>MERN Stack</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>💼 <b>Job Portal</b> — Job searching & posting platform</td>
+    <td>React · Vite</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>🛒 <b>E-Commerce Store</b> — Online shopping app</td>
+    <td>React · JavaScript</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>📱 <b>Social Media Platform</b> — Interactive user app</td>
+    <td>React</td>
+    <td>✅ Completed</td>
+  </tr>
+
+  <tr>
+    <td>📱 <b>CareNest</b> — Flutter mobile application</td>
+    <td>Flutter · Dart</td>
+    <td>✅ Completed</td>
+  </tr>
+
+</table>
 
 
 ## ⚡ Tech Stack
