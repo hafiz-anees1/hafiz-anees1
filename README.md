@@ -219,14 +219,6 @@ React & Next.js architecture · Scalable backend systems · REST API design · F
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hafiz-anees1&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Activity Graph  
 
 <p align="center">
